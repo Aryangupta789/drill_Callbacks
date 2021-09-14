@@ -1,0 +1,19 @@
+{
+  "name": "drill_callbacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aryangupta789/drill_Callbacks.git"
+  },
+  "author": "Aryan Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aryangupta789/drill_Callbacks/issues"
+  },
+  "homepage": "https://github.com/Aryangupta789/drill_Callbacks#readme"
+}
